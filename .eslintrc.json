@@ -9,5 +9,6 @@
     "sourceType": "module",
     "parser": "babel-eslint"
   },
+  "ignorePatterns": ["webpack.config.js"],
   "rules": {}
 }
