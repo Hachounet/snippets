@@ -1,4 +1,4 @@
-# snippets
+# Template
 
 This repo serve as Ready-To-Work template for next projects with The Odin Project. 
 This is a WIP.
